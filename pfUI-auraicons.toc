@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: |cff33ffccpf|cffffffffUI-auraicons
+## Author: vetu104
+## Notes: Create icons for important auras
+## Version: 1.0
+## Dependencies: pfUI
+
+watcher.lua
+pfUI-auraicons.lua
